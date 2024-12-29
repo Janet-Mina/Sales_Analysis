@@ -1,4 +1,4 @@
-### Sales_Analysis
+### Sales Analysis
 
 ---
 ### Table of Contents
